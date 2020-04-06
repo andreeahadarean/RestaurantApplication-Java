@@ -1,0 +1,5 @@
+Order ID: 1
+Date: 10.05.2019
+Table NO: 5
+-- Composite Dish: Gratar piept pui --price: 12 --
+Total price: 12
